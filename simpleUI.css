@@ -1,13 +1,3 @@
-button.mat-button-base {
-    color: darkgrey;
-}
-
-button.mat-focus-indicator.button.mat-raised-button.mat-button-base{
-   color: darkgray;
-}
-
-element.style {
-    color: rgb(255, 255, 255) !important;
-    transition: background 0.4s cubic-bezier(0.25, 0.8, 0.25, 1) 0s, box-shadow 0.28s cubic-bezier(0.4, 0, 0.2, 1) 0s;
-    background: darkgray;
+span.mat-button-wrapper {
+    color: darkgray;
 }
