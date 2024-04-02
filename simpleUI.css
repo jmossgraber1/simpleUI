@@ -3,7 +3,7 @@ button.mat-button-base {
 }
 
 button.mat-focus-indicator.button.mat-raised-button.mat-button-base{
-   
+   color: darkgray;
 }
 
 element.style {
