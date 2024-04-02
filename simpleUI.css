@@ -2,7 +2,7 @@ span.mat-button-wrapper {
     color: darkgray;
 }
 
-.banner-image[_ngcontent-duq-c202] img[_ngcontent-duq-c202], .banner-image[_ngcontent-duq-c202] picture[_ngcontent-duq-c202] {
+.banner-image[_ngcontent-duq-c202] picture[_ngcontent-duq-c202] {
     position: absolute;
     top: 0;
     left: 0;
