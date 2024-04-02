@@ -1,3 +1,7 @@
+.content{
+    visibility:hidden;
+}
+
 h1.event-name.ng-tns-c202-0 {
     visibility: hidden;
 }
