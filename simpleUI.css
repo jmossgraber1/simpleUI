@@ -2,6 +2,10 @@
   visibility:hidden;
 }
 
+.event-name[_ngcontent-uta-c202]{
+    visibility:hidden;
+}
+
 .start-date[_ngcontent-jit-c180], .end-date[_ngcontent-jit-c180]{
   justify-content: center;
   
