@@ -1,3 +1,3 @@
-.content{
-    visibility: hidden;
+button.mat-button-base {
+    color: darkgrey;
 }
