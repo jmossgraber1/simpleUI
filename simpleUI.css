@@ -1,0 +1,16 @@
+.event-name[_ngcontent-idk-c202]{
+  visibility:hidden;
+}
+
+.start-date[_ngcontent-jit-c180], .end-date[_ngcontent-jit-c180]{
+  justify-content: center;
+  
+}
+
+.date-separator[_ngcontent-jit-c180]:before{
+  justify-content: center;
+} 
+
+.date-separator[_ngcontent-jit-c180]:after{
+    justify-content: center;
+}
