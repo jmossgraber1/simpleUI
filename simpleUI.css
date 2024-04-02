@@ -1,3 +1,11 @@
+.event-name{
+  visibility:hidden;
+}
+
+.event-name[_ngcontent-idk]{
+  visibility:hidden;
+}
+
 .event-name[_ngcontent-idk-c202]{
   visibility:hidden;
 }
