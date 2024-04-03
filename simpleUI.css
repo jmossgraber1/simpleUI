@@ -6,6 +6,10 @@ div.event-date-container {
     display: none;
 }
 
+.event-date-container {
+    display: none;
+}
+
 div.banner-image{
     position: absolute;
     top: 0;
