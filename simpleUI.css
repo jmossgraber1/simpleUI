@@ -34,3 +34,7 @@ h1.event-name {
     padding-left: 20%;
     padding-right: 4%;
 }
+
+.event-start-end-date {
+    display: none;
+}
