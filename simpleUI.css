@@ -14,3 +14,24 @@ span.mat-button-wrapper {
     -o-object-fit: cover;
     object-fit: contain;
 }
+
+
+.event-name[_ngcontent-cef-c202] {
+    font-style: italic;
+    font-weight: 200;
+    font-size: 5rem;
+    line-height: calc(1.25* var(--lineHeightFactor));
+    text-align: center;
+    letter-spacing: .125rem;
+    color: gray;}
+
+.event-details[_ngcontent-cef-c202] .event-name[_ngcontent-cef-c202] {
+    font-style: italic;
+    font-weight: 200;
+    font-size: 5rem;
+    line-height: calc(1.25* var(--lineHeightFactor));
+    text-align: center;
+    letter-spacing: .125rem;
+    color: gray;
+}
+
