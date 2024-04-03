@@ -1,8 +1,8 @@
 span.mat-button-wrapper {
-    color: orange;
+    color: pink;
 }
 
-div.event-date{
+h1.event-date{
     display: none;
 }
 
