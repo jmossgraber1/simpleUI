@@ -2,6 +2,18 @@ span.mat-button-wrapper {
     color: pink;
 }
 
+span.mat-raised-button {
+    color: yellow;
+}
+
+span.mat-button-base{
+    color: lightblue;
+}
+
+span.event-date-container {
+    display: none;
+}
+
 div.event-date-container {
     display: none;
 }
