@@ -2,7 +2,7 @@ span.mat-button-wrapper {
     color: yellow;
 }
 
-.event-date[_ngcontent-cef-c202] {
+.event-date{
     display: none;
     justify-content: center;
 }
@@ -10,7 +10,7 @@ span.mat-button-wrapper {
 
 
 
-.banner-image[_ngcontent-duq-c202] picture[_ngcontent-duq-c202] {
+.banner-image{
     position: absolute;
     top: 0;
     left: 0;
@@ -24,7 +24,7 @@ span.mat-button-wrapper {
 }
 
 
-.event-name[_ngcontent-cef-c202] {
+.event-name {
     display: none;
     font-style: italic;
     font-weight: 200;
@@ -34,7 +34,8 @@ span.mat-button-wrapper {
     letter-spacing: .125rem;
     color: gray;}
 
-.event-details[_ngcontent-cef-c202] .event-name[_ngcontent-cef-c202] {
+.event-details.event-name {
+    display: none;
     font-style: italic;
     font-weight: 200;
     font-size: 5rem;
@@ -44,13 +45,13 @@ span.mat-button-wrapper {
     color: gray;
 }
 
-.button[_ngcontent-cef-c201] {
+.button {
     width: 100%;
     font-style: normal;
     font-weight: 500;
     font-size: 1rem;
     line-height: calc(2.25rem* var(--lineHeightFactor));
-    background-color: var(--primaryColorOriginal);
+    background-color: blue;
     border: none;
     border-radius: 3.125rem;
     color: var(--primaryColorOriginalTextContrast);
