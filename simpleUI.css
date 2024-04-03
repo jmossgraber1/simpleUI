@@ -2,6 +2,14 @@ span.mat-button-wrapper {
     color: darkgray;
 }
 
+.event-date[_ngcontent-cef-c202] {
+    display: none;
+    justify-content: center;
+}
+
+
+
+
 .banner-image[_ngcontent-duq-c202] picture[_ngcontent-duq-c202] {
     position: absolute;
     top: 0;
@@ -17,6 +25,7 @@ span.mat-button-wrapper {
 
 
 .event-name[_ngcontent-cef-c202] {
+    display: none;
     font-style: italic;
     font-weight: 200;
     font-size: 5rem;
@@ -33,5 +42,25 @@ span.mat-button-wrapper {
     text-align: center;
     letter-spacing: .125rem;
     color: gray;
+}
+
+.button[_ngcontent-cef-c201] {
+    width: 100%;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: calc(2.25rem* var(--lineHeightFactor));
+    background-color: var(--primaryColorOriginal);
+    border: none;
+    border-radius: 3.125rem;
+    color: var(--primaryColorOriginalTextContrast);
+    cursor: pointer;
+    padding: .125rem 1rem;
+    margin: 0 auto 0 .75rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    letter-spacing: calc(.0625rem + calc(.03125rem* var(--letterSpaceFactor)));
+    text-transform: capitalize;
 }
 
