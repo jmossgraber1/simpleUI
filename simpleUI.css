@@ -38,3 +38,12 @@ h1.event-name {
 .event-start-end-date {
     display: none;
 }
+
+.end-date.showIcon.ng-star-inserted {
+    display: none;
+}
+
+.start-date.showIcon.ng-star-inserted {
+    display: none;
+}
+
