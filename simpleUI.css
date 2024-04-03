@@ -27,10 +27,10 @@ h1.event-name {
     display: none;
 }
 
-.banner-image {
- 
-    width: 25%;
-    height: 55%;
-    padding-top: 1.24%;
-    
+.banner-image.ng-star-inserted {
+    width: 31%;
+    height: 45%;
+    position: relative;
+    padding-left: 20%;
+    padding-right: 4%;
 }
