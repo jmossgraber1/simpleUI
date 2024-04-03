@@ -23,16 +23,7 @@ div.event-date-container {
 }
 
 div.banner-image{
-    position: absolute;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    width: 100%;
-    height: 100%;
-    color: transparent;
-    -o-object-fit: cover;
-    object-fit: contain;
+display: none;
 }
 
 h1.event-name {
