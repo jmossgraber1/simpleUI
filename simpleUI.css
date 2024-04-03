@@ -27,7 +27,7 @@ h1.event-name {
     display: none;
 }
 
-banner-image[_ngcontent-ibn-c202] {
+.banner-image {
     padding-left: 70%;
     width: 25%;
     height: 55%;
