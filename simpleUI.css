@@ -1,13 +1,12 @@
 span.mat-button-wrapper {
-    color: yellow;
+    color: orange;
 }
 
-.event-date{
+div.event-date{
     display: none;
-    justify-content: center;
 }
 
-.banner-image{
+div.banner-image{
     position: absolute;
     top: 0;
     left: 0;
@@ -20,45 +19,8 @@ span.mat-button-wrapper {
     object-fit: contain;
 }
 
-
-.event-name {
+h1.event-name {
     display: none;
-    font-style: italic;
-    font-weight: 200;
-    font-size: 5rem;
-    line-height: calc(1.25* var(--lineHeightFactor));
-    text-align: center;
-    letter-spacing: .125rem;
-    color: gray;}
-
-.event-details.event-name {
-    display: none;
-    font-style: italic;
-    font-weight: 200;
-    font-size: 5rem;
-    line-height: calc(1.25* var(--lineHeightFactor));
-    text-align: center;
-    letter-spacing: .125rem;
-    color: gray;
 }
 
-.button {
-    width: 100%;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 1rem;
-    line-height: calc(2.25rem* var(--lineHeightFactor));
-    background-color: blue;
-    border: none;
-    border-radius: 3.125rem;
-    color: var(--primaryColorOriginalTextContrast);
-    cursor: pointer;
-    padding: .125rem 1rem;
-    margin: 0 auto 0 .75rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    letter-spacing: calc(.0625rem + calc(.03125rem* var(--letterSpaceFactor)));
-    text-transform: capitalize;
-}
 
