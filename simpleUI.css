@@ -2,7 +2,7 @@ span.mat-button-wrapper {
     color: pink;
 }
 
-div.event-where-when{
+div.event-details.event-where-when{
     display: none;
 }
 
