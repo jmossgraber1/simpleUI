@@ -27,4 +27,16 @@ h1.event-name {
     display: none;
 }
 
+div.banner-image{
+    position: absolute;
+    top: 26px;
+    left: 0px;
+    bottom: 0;
+    right: 5px;
+    width: 100%;
+    height: 100%;
+    color: transparent;
+    -o-object-fit: cover;
+    object-fit: scale-down
+}
 
